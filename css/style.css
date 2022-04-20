@@ -18,11 +18,15 @@ header {
 }
 
 
-.container p{
+.written{
     font-size: 12px;
     color: #808080;
 }
 
 .author{
     color:#2daee6;
+}
+
+.description{
+    font-size: 12px;
 }
