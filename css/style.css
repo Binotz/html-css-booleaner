@@ -1,3 +1,4 @@
+/* RESET */
 * {
     margin: 0;
     padding: 0;
@@ -9,4 +10,19 @@ header {
     background-repeat: repeat;
     background-image: url('../img/pattern.png');
     height: 180px;
+}
+
+.container{
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+
+.container p{
+    font-size: 12px;
+    color: #808080;
+}
+
+.author{
+    color:#2daee6;
 }
