@@ -21,6 +21,13 @@ footer{
     margin-bottom: 50px;
 }
 
+/* ID */
+
+#logo{
+    width: 500px;
+    margin-top: 50px;
+}
+
 /* CLASSI */
 .container{
     margin-top: 20px;
