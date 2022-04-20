@@ -12,9 +12,13 @@ header {
     height: 180px;
 }
 
+div{
+    margin-top: 18px;;
+}
+
 .container{
     margin-top: 20px;
-    margin-left: 5px;
+    margin-left: 10px;
 }
 
 
@@ -30,3 +34,11 @@ header {
 .description{
     font-size: 12px;
 }
+
+.evidence{
+    background: #ffff00;
+}
+
+.list{
+    margin-left: 20px;
+} 
