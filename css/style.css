@@ -5,6 +5,7 @@
     box-sizing: border-box;
 }
 
+/* COMPONENTI */
 header {
     background-color: #4ea0ff;
     background-repeat: repeat;
@@ -13,9 +14,14 @@ header {
 }
 
 div{
-    margin-top: 18px;;
+    margin-top: 18px;
 }
 
+footer{
+    margin-top: 30px;
+}
+
+/* CLASSI */
 .container{
     margin-top: 20px;
     margin-left: 10px;
@@ -39,6 +45,26 @@ div{
     background: #ffff00;
 }
 
+/* classe per far "tornare" i pallini della UL */
 .list{
     margin-left: 20px;
 } 
+
+/* tabella */
+
+.table-head{
+    background-color: #20a9e5;
+    color: white;
+}
+
+.odd{
+    background-color: #b1e5f2;
+}
+
+.third-column{
+    width: 50%;
+}
+
+.text-footer{
+    color: #818181;
+}
